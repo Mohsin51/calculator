@@ -127,7 +127,7 @@ function App() {
   const [{ currentOperand, previousOperand , operation },dispatch] = useReducer(reducer, {});
   return (
     <>
-    <div className="heading">Calculator</div>
+    <div className="heading">Calculator For Simple Calculation</div>
     <div className="calculator-grid">
    
       <div className="output">
