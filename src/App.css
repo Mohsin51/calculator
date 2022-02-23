@@ -6,7 +6,12 @@ body {
   margin: 0;
   background: linear-gradient(to right, #00AAFF, #00FF6C);
 }
-
+.heading{
+  text-align: center;
+  margin-top: 1rem;
+  font-size: 2rem;
+  text-transform:uppercase;
+}
 .calculator-grid {
   display: grid;
   margin-top: 2rem;
